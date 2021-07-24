@@ -1,6 +1,7 @@
 # Work_SoC
 
 We made a facial recognition app in which we can identify faces through any images and videos. 
+
 Using OpenCV_We made histograms.
 We learnt how to crop, color change of any image, how to do convolation and blurring using OpenCV.
 We did mini Project in openCV in which we can got our live sketch using our laptop's Webcam.
